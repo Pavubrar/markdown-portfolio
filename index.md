@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 **Play with Markdown editor** <br>
 *Play with Markdown editor* <br>
 
@@ -39,6 +40,25 @@ layout: default
 1. First item
 2. Second item
 3. Third item
+
+
+#### Hello everyone, enjoying coding
+
+<br>
+
+![love github](https://octodex.github.com/mona-lovelace/)
+
+<br>
+
+[Github](https://github.com/Pavubrar)
+
+
+
+# Hello, My name is Parveen Kaur
+## I am a passionate Full Stack Developer.
+ ### Connect with me at
+[linked](www.linkedin.com/in/parveen-brar)
+
 
 // unordered list
 - First item
