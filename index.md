@@ -2,13 +2,13 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+#### Hello everyone, enjoying coding
 
 <br>
 
-{% include 02-image.md %}
+![love github](https://octodex.github.com/mona-lovelace/)
 
 <br>
 
-{% include 03-links.md %}
+[Github](https://github.com/Pavubrar)
 
