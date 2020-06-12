@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [x] Love to solve problems by putting best logic in it.
+- [x] Learn new tech.
+- [ ] Make portfolio
